@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-#prueba hector
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
 # Use SQL Server 2012 as the database for Active Record
